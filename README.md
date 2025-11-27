@@ -1,2 +1,2 @@
-# Exploring-NYC-Public-School-Test-Result-Scores
+<center><img src="image/public_school.png"></center>
 
